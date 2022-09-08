@@ -1,3 +1,6 @@
 /.settings/
 /.project
 /.classpath
+/target/maven-status
+/target/maven-archiver
+/target/classes/META-INF
